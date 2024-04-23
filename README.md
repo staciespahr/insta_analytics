@@ -16,5 +16,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:** 
 ```
-git clone 
+git clone https://github.com/ashleyakamine/insta_analytics.git
 ```
+
+
+## Sources
+- Getting Started with Tauri (https://tauri.app/v1/guides/getting-started/setup/)
+- How to Navigate Instagram API (https://rapidapi.com/blog/how-to-navigate-and-connect-to-instagrams-api/)
+- How to Fetch a Web API with Rust(https://dev.to/hb/how-to-fetch-a-web-api-with-rust-1390)
